@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Menu>
+    Menu
+    <Dish>
+        Dishes
+        <ID>1</ID>
+        <Name>Pizza</Name>
+        <Price>200</Price>
+        <Weigh>300</Weigh>
+    </Dish>
+    <Dish>
+        Dishes
+        <ID>2</ID>
+        <Name>Potatoes</Name>
+        <Price>300</Price>
+        <Weigh>200</Weigh>
+    </Dish>
+    <Dish>
+        Dishes
+        <ID>3</ID>
+        <Name>Sushi</Name>
+        <Price>225</Price>
+        <Weigh>100</Weigh>
+    </Dish>
+    <Dish>
+        Dishes
+        <ID>4</ID>
+        <Name>Lobster</Name>
+        <Price>1000</Price>
+        <Weigh>500</Weigh>
+    </Dish>
+    <Dish>
+        Dishes
+        <ID>5</ID>
+        <Name>Soup of the day</Name>
+        <Price>100</Price>
+        <Weigh>250</Weigh>
+    </Dish>
+</Menu>
